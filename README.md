@@ -1,1 +1,10 @@
-# Covid-19-analysis
+The COVID-19 pandemic in Israel is part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
+
+In this research I focused on data of deceased and tested indeviduals of Covid-19 in Israel (29.06.20- 13.09.2020) to try and learn what could be done diffrently to lower death levels from the pandemic. 
+First, the precentage of deceased indevidals rises with age group.The highest precentage of deceased are from age group greater than 85 years old. Females at this group of age die at a greater exent then males, but at lower age groups females die less.
+Moreover, the shorter the time between positive diagnosis of an indevidual, the longer the time between diagnosis and death.The older the person the longer it takes to hospitalize him from the moment he was diagnosed. It take longer time to hospitalize females above age 65 but they survive the same amount of time as men who where hospitelize quicklier.This results can be due to diffrence in sensetivness of men and women to the deasese and has to be further researched in a scientificly matter.
+Next, when analysing data of tested individuals it was clear that less than 15% of tested individuals are above 65 years old. I assume that these low test rates are due to the lack of support or phisical difficulty of old people to get tested or the low testes rate in retirement homes (https://www.mako.co.il/news-lifestyle/2020_q3/Article-79e230046cf3471027.htm).
+In corespondance to low death rates of females in age group lower than 85, females get tested more than males and are less positive to the virus.
+For summary, I presented a graph of the rising amount of tested individuals that shows the state of the rising pandemic in Israel.
+
+In conclusion, The most effected individuals of the pandemic are from senior age group. Therfore, the goverment must help those individuals in getting tested and in shortening the time between their diagnosis to lower rate of mortality. 
